@@ -16,4 +16,10 @@ Our mission is to help workers make their microbreaks useful.
   - [ ] `IOS9` App
   - [ ] `Android` App
   - [ ] `Windows Mobile` App
+
+## Mac/PC Client
+> @see [Mockups](https://app.moqups.com/alexander.moldova@gmail.com/WAHDTLtUfH/view)
+
+## Mobile App
+> @see [Mockups](https://app.moqups.com/alexander.moldova@gmail.com/Y0zHdxIVrc/view)
   
