@@ -1,5 +1,7 @@
 # break.yoga- microbreaks made easy.
 
+[![Join the chat at https://gitter.im/break-yoga/break.yoga](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/break-yoga/break.yoga?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## The Mission
 Our mission is to help workers make their microbreaks useful.
 
